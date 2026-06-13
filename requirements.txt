@@ -1,0 +1,11 @@
+torch
+torchvision
+monai
+numpy
+pandas
+matplotlib
+scikit-learn
+nibabel
+tqdm
+scipy
+pathlib
